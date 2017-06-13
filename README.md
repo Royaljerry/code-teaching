@@ -10,8 +10,10 @@ Here comes something extra
 
 ### Python
 
-### PHP
+### PHP Language
 
 ## Tools
 
 - [Codepen](http://codepen.com)
+- [W3C](http://w3c.org)
+- Krumplifőzelék
